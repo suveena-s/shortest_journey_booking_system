@@ -1,0 +1,22 @@
+21
+0 nagasandra 
+1 jalahalli
+2 peenya
+3 yeshwantpur
+4 mahalaxmi
+5 srirampura
+6 chickpete
+7 national college
+8 lalbagh
+9 jaynagar
+10 banashankari
+11 yelachenahalli
+12 mysuru road
+13 vijayanagar
+14 magadi road
+15 ksr
+16 kempa gowda majestic
+17 cubbon park
+18 trinity
+19 indiranagar
+20 baiyyappanahalli
